@@ -1,0 +1,20 @@
+* body {
+   /*  margin: 0 auto; */
+    text-align: center
+    
+    
+}
+img{
+    height: 150px;
+    width: 150px;
+   /*  box-shadow: 0px 10px 50px rgb(16, 52, 65); */
+}
+.container-1{
+    width: 90%;
+    margin: 0 auto;
+    border: 2px solid rgb(95, 94, 94);
+}
+.flex-box-rps img:hover{
+    box-shadow: 0px 10px 50px rgb(16, 52, 65);
+
+}
